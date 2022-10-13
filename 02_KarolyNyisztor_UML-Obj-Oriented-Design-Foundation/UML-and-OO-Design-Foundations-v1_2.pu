@@ -1,0 +1,52 @@
+@startmindmap
+* CHAPTER 2 Sofware Development Methodologies
+**:Waterfall model
+Require a detail plan before starting any code
+;
+*** Colect and analyze requirements
+*** Define the overall design (Architecture define)
+*** Software development phase (Implementation)
+*** Verification phase
+*** Maintenance phase
+**:Agile model
+Expectation can change rapidly and frequently
+;
+*** Sprint #1
+*** Sprint #2
+*** Sprint #3
+
+* CHAPTER 4 Object-Oriented Analysis and Deisgn
+** Collecting requirements
+*** Functional requirements
+**** Show speed
+**** Metric/Imperial Units
+**** Customizable
+*** Nonfunctional requirements
+**** Performance
+**** Legal requirements
+**** Documentation
+***:Waterfall need to clarify all requirements inadvance
+Agile continue without having all answers
+;
+** Mapping requirements to technical description
+***:Use-case
+Usually used by Watterfall projects
+Need a title
+"Create new trip"
+"Convert Currencies"
+v.v
+;
+****:Scenario
+Describe the details of use-case
+;
+***:Use stories
+Usually used by Agile projects
+As a < type of user >,
+I want < some goal >
+so that < some reason >.
+“As a user,
+I want to add notes to my expenses,
+so that I can identify them later on.”
+;
+
+@endmindmap

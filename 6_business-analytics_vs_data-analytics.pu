@@ -1,0 +1,35 @@
+@startmindmap
+*:Video 6
+Data Field
+;
+**[#SkyBlue] Business
+*** Analysis (Past)
+****[#SkyBlue] Business Case Study
+****[#DodgerBlue] Preliminary Data Report
+****[#DodgerBlue] Reporting with Visual
+****[#DodgerBlue] Creating Dashboards
+*** Analytics (Future)
+****[#SkyBlue] Qualitative Analytics
+****[#DodgerBlue] Sales Forecasting
+**[#LightPink] Data
+***[#SeaGreen] Data Science
+**** Analysis (Past)
+*****[#DodgerBlue] Preliminary Data Report
+*****[#DodgerBlue] Reporting with Visual
+*****[#DodgerBlue] Creating Dashboards
+**** Analytics (Future)
+*****[#DodgerBlue] Sales Forecasting
+*****[#SeaGreen] Optimization of Drilling Operations
+** Note
+***:__Data science__ is a part of Data Analytics which is mostly the part
+that uses complex mathematical, statistical and programming tools
+;
+***:__Data science__ is a discipline reliant on data availability,
+while business analytics does not completely rely on data
+;
+***:__Data science__ can be used to improve the accuracy of predictions based on 
+data extracted from various activities typical for drilling efficiency
+;
+***[#LightPink] Digital Signal Processing
+
+@endmindmap

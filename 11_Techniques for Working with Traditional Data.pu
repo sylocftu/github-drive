@@ -1,0 +1,22 @@
+@startmindmap
+*:Video 9
+The Field of Data;
+** Data
+*** Traditional data
+**** Raw data
+**** Data collection
+*** Big data
+** Data Science
+***:Business Intelligence
+includes all technology-driven tools involved in the process of
+**analyzing**, **understanding** and **reporting** available past data;
+***:Traditional Methods
+a set of methods that are derived mainly from statistics
+and are adapted for business;
+**** regression
+**** cluster
+**** factor
+*** Machine Learning
+
+
+@endmindmap

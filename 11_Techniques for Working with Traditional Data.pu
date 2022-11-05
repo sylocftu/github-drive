@@ -4,8 +4,31 @@ The Field of Data;
 ** Data
 *** Traditional data
 **** Raw data
+*****:Pre-process
+Raw data -> Data pre-processing
+-> processing -> information -> BI
+Ex: Age: 932 -> 32;
+****** Class labeling
+*******:categorical
+Ex: date in historical stock price data;
+*******:numerical
+Ex: price in historical stock price data;
+******:Data cleansing
+Ex: Nwe York -> New York;
+****** Dealing with missing value
+****** Balancing
+******:Data shuffling
+Ex: Trộn bài;
 **** Data collection
 *** Big data
+**** Raw data
+***** Pre-process
+****** Class labeling
+****** Dealing with missing value
+****** Text data mining
+******:Data masking
+Analyse the information without compromising
+private details;
 ** Data Science
 ***:Business Intelligence
 includes all technology-driven tools involved in the process of

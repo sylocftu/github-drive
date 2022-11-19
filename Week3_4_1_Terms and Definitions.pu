@@ -5,6 +5,8 @@ Qualities and characteristics associated with using facts to solve problem;
 **:**Analytical thinking**
 The process of identifying and defining a problem, then solving it
 by using data in an organized, step-by-step manner;
+**:**Attribute**
+A characteristic or quality of data used to label a column in a table;
 **:**Context**
 The condition in which something exists or happens;
 **:**Data**
@@ -41,6 +43,10 @@ the data in a spreadsheet;
 **:**Gap analysis**
 A method for examining and evaluating the current state of a process in order to
 identify oppotunities for improvement in the future;
+**:**Observation**
+The attributes that describe a piece of data contained in a row of a table;
+**:**Query**
+A request for data or information from a database;
 **:**Query language**
 A computer programming language used to communicate with a database;
 **:**Root cause**
